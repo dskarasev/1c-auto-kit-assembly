@@ -1,0 +1,39 @@
+# 1C files
+*.1CD
+*.1CL
+*.DT
+*.DBF
+*.DBT
+*.NDX
+*.CD
+*.LGD
+*.LGF
+*.BAK
+
+# Временные файлы 1C
+*~
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+.claude-flow/
+
+# Logs
+*.log
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Backup
+backup/
+*.backup
